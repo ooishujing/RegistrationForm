@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">Registration Form</string>
-    
+    <string name="txtV">Registration Form</string>
+    <string name="txtV2">Welcome To Adventure Learning Hub</string>
+    <string name="txtV3">Full Name</string>
+    <string name="txtV4">Gender</string>
+    <string name="txtV5">School ID</string>
+    <string name="txtV6">School</string>
+    <string name="txtV7">E-mail</string>
+    <string name="txtV8">Phone</string>
+    <string name="editTxt">First name</string>
+    <string name="editTxt2">Last name</string>
+    <string name="ButtonTxt">Register</string>
+    <string name="RadioButtonTxt">Male</string>
+    <string name="RadioButtonTxt2">Female</string>
+
 </resources>
